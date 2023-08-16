@@ -1,18 +1,19 @@
 body {
-    width: 700px;
-    margin: 0 auto;
+    width: 1000px;
+    margin: 0 auto; 
 }
 
 header {
-    background-color: blue;
-    text-align: center;
+    background-color: rgb(166, 135, 184);
+    text-align: center; border: groove rgb(3, 3, 3) 15px
 }
 
 main {
-    background-color: blueviolet;
+    background-color: rgb(171, 161, 180);
 }
 
 section {
-    border: dashed rgb(214, 200, 198) 3px;
+    border: groove rgb(0, 0, 0) 15px;
     padding: 25px
 }
+
