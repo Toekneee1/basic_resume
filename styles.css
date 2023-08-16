@@ -13,6 +13,6 @@ main {
 }
 
 section {
-    border: rgb(214, 200, 198) 3px;
+    border: dashed rgb(214, 200, 198) 3px;
     padding: 25px
 }
