@@ -1,0 +1,18 @@
+body {
+    width: 700px;
+    margin: 0 auto;
+}
+
+header {
+    background-color: blue;
+    text-align: center;
+}
+
+main {
+    background-color: blueviolet;
+}
+
+section {
+    border: rgb(214, 200, 198) 3px;
+    padding: 25px
+}
